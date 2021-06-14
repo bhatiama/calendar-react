@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/calendar-react/static/css/main.7bc1366a.chunk.css",
+    "main.js": "/calendar-react/static/js/main.4da3e363.chunk.js",
+    "main.js.map": "/calendar-react/static/js/main.4da3e363.chunk.js.map",
+    "runtime-main.js": "/calendar-react/static/js/runtime-main.a9a28c47.js",
+    "runtime-main.js.map": "/calendar-react/static/js/runtime-main.a9a28c47.js.map",
+    "static/js/2.7a53ae00.chunk.js": "/calendar-react/static/js/2.7a53ae00.chunk.js",
+    "static/js/2.7a53ae00.chunk.js.map": "/calendar-react/static/js/2.7a53ae00.chunk.js.map",
+    "index.html": "/calendar-react/index.html",
+    "static/css/main.7bc1366a.chunk.css.map": "/calendar-react/static/css/main.7bc1366a.chunk.css.map",
+    "static/js/2.7a53ae00.chunk.js.LICENSE.txt": "/calendar-react/static/js/2.7a53ae00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9a28c47.js",
+    "static/js/2.7a53ae00.chunk.js",
+    "static/css/main.7bc1366a.chunk.css",
+    "static/js/main.4da3e363.chunk.js"
+  ]
+}
